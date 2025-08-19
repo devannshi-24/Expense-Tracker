@@ -24,3 +24,4 @@ A simple web application to track income and expenses in real time. Built using 
 
 
 # Expense-Tracker
+Switched to proper git flow
